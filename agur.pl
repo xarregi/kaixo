@@ -17,4 +17,4 @@ say "berriz bateratu";
 say "rodrirekin";
 say "barearekin";
 say "barearekin klonetik";
-
+say "olatz kolaboratzailea";
