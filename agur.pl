@@ -1,0 +1,20 @@
+use 5.010;
+use strict;
+use warnings;
+say "zein da zure izena?";
+my $name= <STDIN>;
+chomp $name;
+say "Kaixo $name, zer moduz?";
+say "kaixo mundua";
+say "orain beste aldaketa!";
+say "hau revert probatzeko";
+say "nahasketa";
+say "hamaikagarren aldaketa";
+say "proba";
+say "klona";
+say "guztiz bateratua";
+say "berriz bateratu";
+say "rodrirekin";
+say "barearekin";
+say "barearekin klonetik";
+
